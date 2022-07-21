@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello Everyone 👋
 
-<!--
-**jcage23/jcage23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Salman Najeeb. Let me thank you all for visiting my Github profile !!!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working in Cognizant as Mainframe Engineer
+- 🌱 I’m currently learning Data Science from GUVI
+- 👯 I’m looking to collaborate on Data Science domain
+- 💬 Ask me about things based upon my educational background..I'm always ready to help
+- 📫 How to reach me: salnajeeb23@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
